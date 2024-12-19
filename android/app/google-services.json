@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980961613865",
+    "project_id": "peltownnotification",
+    "storage_bucket": "peltownnotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980961613865:android:a12bf06c63e4903ad56438",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzTi1qVmpFB2LGvTY-5pdiTXo54ifeMKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
